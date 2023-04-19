@@ -1,6 +1,15 @@
 {
     "name": "devarul/three.js",
     "description": "Three JS",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arularasan",
+            "email": "arul.it02@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
     "repositories": [
         {
             "type": "vcs",
