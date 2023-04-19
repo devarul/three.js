@@ -1,5 +1,11 @@
 {
     "name": "devarul/three.js",
     "description": "Three JS",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/devarul/three.js"
+        }
+    ],
     "require": {}
 }
